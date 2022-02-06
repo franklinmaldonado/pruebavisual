@@ -4,6 +4,66 @@
     "C:\\Users\\frank\\Documents\\GitHub\\pruebavisual\\Consola\\Consola\\Consola.csproj": {}
   },
   "projects": {
+    "C:\\Users\\frank\\Documents\\GitHub\\pruebavisual\\Consola\\ClassLibrary1\\Modelo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\frank\\Documents\\GitHub\\pruebavisual\\Consola\\ClassLibrary1\\Modelo.csproj",
+        "projectName": "Modelo",
+        "projectPath": "C:\\Users\\frank\\Documents\\GitHub\\pruebavisual\\Consola\\ClassLibrary1\\Modelo.csproj",
+        "packagesPath": "C:\\Users\\frank\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\frank\\Documents\\GitHub\\pruebavisual\\Consola\\ClassLibrary1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\frank\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\frank\\Documents\\GitHub\\pruebavisual\\Consola\\Consola\\Consola.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -27,7 +87,72 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\frank\\Documents\\GitHub\\pruebavisual\\Consola\\ClassLibrary1\\Modelo.csproj": {
+                "projectPath": "C:\\Users\\frank\\Documents\\GitHub\\pruebavisual\\Consola\\ClassLibrary1\\Modelo.csproj"
+              },
+              "C:\\Users\\frank\\Documents\\GitHub\\pruebavisual\\Consola\\ModelDB\\ModelDB.csproj": {
+                "projectPath": "C:\\Users\\frank\\Documents\\GitHub\\pruebavisual\\Consola\\ModelDB\\ModelDB.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\frank\\Documents\\GitHub\\pruebavisual\\Consola\\ModelDB\\ModelDB.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\frank\\Documents\\GitHub\\pruebavisual\\Consola\\ModelDB\\ModelDB.csproj",
+        "projectName": "ModelDB",
+        "projectPath": "C:\\Users\\frank\\Documents\\GitHub\\pruebavisual\\Consola\\ModelDB\\ModelDB.csproj",
+        "packagesPath": "C:\\Users\\frank\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\frank\\Documents\\GitHub\\pruebavisual\\Consola\\ModelDB\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\frank\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\frank\\Documents\\GitHub\\pruebavisual\\Consola\\ClassLibrary1\\Modelo.csproj": {
+                "projectPath": "C:\\Users\\frank\\Documents\\GitHub\\pruebavisual\\Consola\\ClassLibrary1\\Modelo.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

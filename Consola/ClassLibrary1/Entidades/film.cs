@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace Modelo.Entidades
 {
-    internal class film
+    public class film
     {
         public int film_id { get; set; }
         public string title { get; set; }
         public string description { get; set; }
         public int release_year { get; set; }
-        public int language_id { get; set; }
+        
         public int reantla_duration { get; set; }
         public decimal rental_rate { get; set; }
         public int length { get; set; }
@@ -21,5 +21,10 @@ namespace Modelo.Entidades
         public DateTime last_update { get; set; }
         public string special_features { get; set; }
         public string fulltext { get; set; }
+
+        //relacion language
+
+        public language language { get; set; }
+        public int language_id { get; set; }
     }
 }
