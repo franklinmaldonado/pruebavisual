@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "77b780a2-0b62-4ecc-8b17-938a07654af1": {
+      "ProjectGuid": "77b780a2-0b62-4ecc-8b17-938a07654af1",
+      "DisplayName": "Consola",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
