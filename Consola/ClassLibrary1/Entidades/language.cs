@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Modelo.Entidades
 {
-    internal class language
+    public class language
     {
         public int lenguage_id { get; set; }
         public string name { get; set; }

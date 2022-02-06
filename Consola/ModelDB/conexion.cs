@@ -5,7 +5,7 @@ using Modelo.Entidades;
 
 namespace ModelDB
 {
-    public class Class1 : DbContext
+    public class conexion : DbContext
     {
         public DbSet<film> films { get; set; }
         public DbSet<inventory> inventorys { get; set; }

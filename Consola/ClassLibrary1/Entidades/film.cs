@@ -26,5 +26,8 @@ namespace Modelo.Entidades
 
         public language language { get; set; }
         public int language_id { get; set; }
+
+        
+        
     }
 }

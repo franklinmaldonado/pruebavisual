@@ -1,0 +1,12 @@
+C:\Users\frank\Documents\GitHub\pruebavisual\Consola\ClassLibrary1\bin\Debug\net5.0\Modelo.deps.json
+C:\Users\frank\Documents\GitHub\pruebavisual\Consola\ClassLibrary1\bin\Debug\net5.0\Modelo.dll
+C:\Users\frank\Documents\GitHub\pruebavisual\Consola\ClassLibrary1\bin\Debug\net5.0\ref\Modelo.dll
+C:\Users\frank\Documents\GitHub\pruebavisual\Consola\ClassLibrary1\bin\Debug\net5.0\Modelo.pdb
+C:\Users\frank\Documents\GitHub\pruebavisual\Consola\ClassLibrary1\obj\Debug\net5.0\Modelo.csproj.AssemblyReference.cache
+C:\Users\frank\Documents\GitHub\pruebavisual\Consola\ClassLibrary1\obj\Debug\net5.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frank\Documents\GitHub\pruebavisual\Consola\ClassLibrary1\obj\Debug\net5.0\Modelo.AssemblyInfoInputs.cache
+C:\Users\frank\Documents\GitHub\pruebavisual\Consola\ClassLibrary1\obj\Debug\net5.0\Modelo.AssemblyInfo.cs
+C:\Users\frank\Documents\GitHub\pruebavisual\Consola\ClassLibrary1\obj\Debug\net5.0\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\frank\Documents\GitHub\pruebavisual\Consola\ClassLibrary1\obj\Debug\net5.0\Modelo.dll
+C:\Users\frank\Documents\GitHub\pruebavisual\Consola\ClassLibrary1\obj\Debug\net5.0\ref\Modelo.dll
+C:\Users\frank\Documents\GitHub\pruebavisual\Consola\ClassLibrary1\obj\Debug\net5.0\Modelo.pdb
