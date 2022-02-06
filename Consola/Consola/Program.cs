@@ -2,8 +2,7 @@
 using Modelo.Entidades;
 using Modelo;
 using System.Collections.Generic;
-
-
+using ModelDB;
 
 namespace Consola
 {
@@ -118,6 +117,13 @@ namespace Consola
             {
                 uno,dos,tres
             };
+
+            conexion con = new conexion();
+            con.films.AddRange(listafilm);
+            con.languages.AddRange(listalenguaje);
+            con.inventorys.AddRange(listinventaryo);
+            con.SaveChanges();
+
         }
     }
 }
