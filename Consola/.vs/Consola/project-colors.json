@@ -5,7 +5,17 @@
       "ProjectGuid": "77b780a2-0b62-4ecc-8b17-938a07654af1",
       "DisplayName": "Consola",
       "ColorIndex": 0
+    },
+    "a38bbff4-281c-4b17-80cb-d44f7d9984ca": {
+      "ProjectGuid": "a38bbff4-281c-4b17-80cb-d44f7d9984ca",
+      "DisplayName": "Modelo",
+      "ColorIndex": 1
+    },
+    "a93b7e01-de56-4808-8a1b-cef1238c7aa6": {
+      "ProjectGuid": "a93b7e01-de56-4808-8a1b-cef1238c7aa6",
+      "DisplayName": "ModelDB",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 3
 }
